@@ -1,0 +1,100 @@
+/* icons nav */
+.collections a{
+    font-size: 12px;
+    margin-right: 10px;
+    color: gray;
+    text-decoration: none;
+    align-items: center;
+}
+.collections ion-icon{
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 100%;
+    color: white;
+}
+.collections a:hover{
+    color: black;
+}
+
+/* navsection */
+.navimage img{
+    width: 45%;
+    margin-top: 30px;
+}
+.navlinks a{
+    font-size: 15px;
+    text-decoration: none;
+    color: #777171;
+    font-weight: normal;
+    
+}
+.navlinks{
+    padding-top: 60px;
+}
+.navlinks a:hover{
+       border-bottom: 1px solid #e30613;
+       color: #e30613;
+}
+.ourb a{
+    color: #e30613;
+    border-bottom: 1px solid #e30613;
+}
+/* banner-image 1 */
+.banner-jew img{
+    width: 100%;
+    height: 350px;
+}
+.links-verth a{
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #a8a7aa;
+   
+}
+.links-verth{
+    margin-top: 20px;
+    margin-left: 8%;
+}
+.border-red1{
+    border-bottom: 1px solid red;
+    width: 88%;
+    margin: auto;
+    padding-top: 20px;
+}
+/* center border  */
+.border-left{
+    border-left: 1px solid black;
+    height: 80px;
+    margin-top: 70px;
+    margin-left: 50%;   
+
+}
+/* head section  */
+.head-section{
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+    margin: auto;
+    width: 75%;
+}
+.paragraph p{
+    font-size: 15px;
+    color: #a8a7aa;
+}
+/* images CHANGE MEADIA*/
+.collection-image1 img{
+    width: 19%;
+    border: 1px solid #dadada;
+    margin-right: 40px;
+    margin-top: 42px;
+ 
+}
+.collection-image1{
+    text-align: center;
+   
+   
+}
+
